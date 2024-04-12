@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 [![CodeQL](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/github-code-scanning/codeql)
+[![Greetings](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/greetings.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/greetings.yml)
