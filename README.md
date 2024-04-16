@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 [![CodeQL](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/github-code-scanning/codeql)
 [![Greetings](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/greetings.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/greetings.yml)
 [![Manual workflow](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/manual.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/manual.yml)
+[![Mark stale issues and pull requests](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/stale.yml/badge.svg)](https://github.com/gabriel-rodriguezcastellini/tic-tac-toe/actions/workflows/stale.yml)
